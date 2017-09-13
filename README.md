@@ -19,31 +19,31 @@ Everything you need to go through the scripts and queries is already provisioned
 
 The analysis performed on the Yelp Dataset are: 
  
- In which year Yelp has got maximum number of users? 
+####  In which year Yelp has got maximum number of users? 
 
 ![Insight1](https://github.com/priyanka21sk/Yelp-Data-Analysis-Using-Hadoop-/blob/master/Insights/Insight_1.jpg)
 
- Forecast of users joining Yelp in coming years.
+####  Forecast of users joining Yelp in coming years.
 
 ![Insight2](https://github.com/priyanka21sk/Yelp-Data-Analysis-Using-Hadoop-/blob/master/Insights/Insight_2.JPG)
 
- Who are the most active users on Yelp? 
+####  Who are the most active users on Yelp? 
 
 ![Insight3](https://github.com/priyanka21sk/Yelp-Data-Analysis-Using-Hadoop-/blob/master/Insights/Insight_3.JPG)
 
- Which users’ review is the most popular based on votes?
+####  Which users’ review is the most popular based on votes?
 
 ![Insight4](https://github.com/priyanka21sk/Yelp-Data-Analysis-Using-Hadoop-/blob/master/Insights/Insight_4.jpg)
 
- Which city has the maximum no of closed business?
+####  Which city has the maximum no of closed business?
 
 ![Insight5](https://github.com/priyanka21sk/Yelp-Data-Analysis-Using-Hadoop-/blob/master/Insights/Insight_5.jpg)
 
- Sentiment Analysis on Top 8 food chains in the USA based on user reviews. 
+####  Sentiment Analysis on Top 8 food chains in the USA based on user reviews. 
 
 ![Insight6](https://github.com/priyanka21sk/Yelp-Data-Analysis-Using-Hadoop-/blob/master/Insights/Insight_6.jpg)
 
- Best suited restaurants for tourists.
+####  Best suited restaurants for tourists.
 
 ![Insight7](https://github.com/priyanka21sk/Yelp-Data-Analysis-Using-Hadoop-/blob/master/Insights/Insight_7.JPG)
 
