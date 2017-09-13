@@ -15,9 +15,12 @@ Everything you need to go through the scripts and queries is already provisioned
  Tableau 9.2 or 9.3 installed for visualization of the analyzed data  
  You must have Microsoft Hive ODBC Driver to import data from Hive into Excel. Select either the 32-bit or 64-bit version based on your version of Microsoft Excel. But, BigInsights does not support it yet as of Sept 2016. 
 
+### Insights:
+
 The analysis performed on the Yelp Dataset are: 
  
  In which year Yelp has got maximum number of users? 
+![Image of Result Map](https://github.com/priyanka21sk/Yelp-Data-Analysis-Using-Hadoop-/blob/master/Insights/Insight_1.jpg)
 
  Forecast of users joining Yelp in coming years.
 
